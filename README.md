@@ -1,1 +1,2 @@
-# cf-auto-git-sync
+## Automate CloudFormation deployments from GitHub
+![CICD](docs/cicd2.png)
