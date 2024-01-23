@@ -4,4 +4,4 @@ Resources:
   MyS3Bucket:
     Type: "AWS::S3::Bucket"
     Properties:
-      BucketName: "cf-s3-git-bucket-v2"
+      BucketName: "cf-s3-git-bucket-v2-v3"
